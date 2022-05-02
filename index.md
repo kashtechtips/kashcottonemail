@@ -2,6 +2,6 @@
 
 So this domain kashcotton.com is a mailserver for now.
 
-Email me at <a href=mailto:kash@kashcotton.com" >kash@kashcotton.com</a>  
+Email me at kash@kashcotton.com 
 
 Thanks! :)
